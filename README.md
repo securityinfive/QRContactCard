@@ -1,4 +1,4 @@
-QR Code Contact Generator
+**QR Code Contact Generator**
 
 QRGenInput.py - Custom input to create different cards.
 
